@@ -1,0 +1,15 @@
+{
+	"packageUrl" : "http://192.168.6.187/test/res/",
+    "remoteVersionUrl" : "http://192.168.6.187/test/res/version.manifest",
+    "remoteManifestUrl" : "http://192.168.6.187/test/res/project.manifest",
+    "version" : "1.0.0",
+
+    "engineVersion" : "3.14",
+
+    "assets" : {
+
+    },
+    "searchPaths" : [
+
+    ]
+}
